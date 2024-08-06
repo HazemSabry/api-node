@@ -96,7 +96,7 @@ If you have any questions or need further assistance, feel free to ask!
 
 ### Try My Docker Container To See It Actually Work
 
-#### Pull Image From My Docker Hub Repository
-```docker
+Pull Image From My Docker Hub Repository
+```bash
 docker pull hazem196/api-node
 ```
